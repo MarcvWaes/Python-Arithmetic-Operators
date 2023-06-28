@@ -11,7 +11,7 @@
 - a = 3
 - b = 5
 
-- Print the following:
+- Print:
 - 8
 - -2
 - 15
