@@ -19,7 +19,7 @@
 - The first line contains the first integer, a
 - The second line contains the second integer, b
 
-- Constraint is the following: 1 <= n <= 100
+- Constraint is the following:
 - 1 <= a <= 10^10
 - 1 <= b <= 10^10
 
